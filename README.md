@@ -1,6 +1,6 @@
 ## Olá ! Eu sou o Wenderson Pina
 
-## 🔭 Hoje estou trabalhando com front-end
+## 🔭 Hoje estou trabalhando Desenvolvimento Web
 ## 🌱 Estudando JavaScript/TypeScript
 ## 😄 Pronouns Ele/Dele
 
